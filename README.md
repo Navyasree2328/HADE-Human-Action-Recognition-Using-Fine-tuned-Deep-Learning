@@ -1,1 +1,1 @@
-# HADE-Human-Action-Recognition-Using-Fine-tuned-Deep-Learning
+# HADE-Human-Action-Recognition-Through-Fine-tuned-Deep-Learning
